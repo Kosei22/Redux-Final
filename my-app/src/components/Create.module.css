@@ -1,0 +1,21 @@
+.form input {
+  width: 85%;
+  border: none;
+  border-bottom: 1px solid black;
+  height: 50px;
+}
+
+.form {
+  margin-bottom: 30px;
+}
+
+button {
+  margin-left: 15px;
+  border: none;
+  font-size: 20px;
+  background: none;
+}
+
+button:hover {
+  opacity: 0.6;
+}
